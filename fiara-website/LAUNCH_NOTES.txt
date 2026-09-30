@@ -1,0 +1,6 @@
+FIARA Creations
+
+- Orders and payments are handled only through WhatsApp (918595949626).
+- Basket -> "Order on WhatsApp" sends the item list and subtotal to that number.
+- Backend: Node.js + Express + PostgreSQL, used only for enquiry forms and newsletter.
+- See README.md for deployment.
