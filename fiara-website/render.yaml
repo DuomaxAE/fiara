@@ -24,4 +24,3 @@ databases:
     region: singapore
     databaseName: fiara
     user: fiara
-    diskSizeGB: 15
